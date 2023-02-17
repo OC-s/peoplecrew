@@ -1,7 +1,7 @@
 
 ## **📝 PeopleCrew 개요**
 
-<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/102138687/219573916-6d4a1d6f-ded3-4efb-9571-ebb65d4a9022.png" />
+<img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/102138687/219575928-0fd5d00a-6e12-4973-ad00-a0bcf7854bf1.png" />
 
 > **프로젝트:** 사내 업무 관리를 위한 웹 애플리케이션 솔루션 개발
 >
