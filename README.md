@@ -1,5 +1,5 @@
 
-## **📝 PeopleCrew **
+## **📝 PeopleCrew**
 
 <img width="100%" alt="메인 페이지" src="https://user-images.githubusercontent.com/102138687/219575928-0fd5d00a-6e12-4973-ad00-a0bcf7854bf1.png" />
 
@@ -18,14 +18,14 @@
 
 <br />
 
-## **🛠 기술 및 도구 **
+## **🛠 기술 및 도구**
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-6DB33F?style=flat&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 
 <br />
 
-## **👨🏻‍💻 시연 영상 링크 **
+## **👨🏻‍💻 시연 영상 링크**
 
 [![Video Label](http://img.youtube.com/vi/xBum6aVuJt8/0.jpg)](https://youtu.be/xBum6aVuJt8)
 
