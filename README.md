@@ -13,8 +13,6 @@
 >
 > **주요 기능:** 사원 등록 및 수정, 게시판, 결재, 캘린더 일정 등록, 로그인 등
 >
-> **사용 기술:** React, Styled-components, Firebase Hosting
->
 > **문의:** dbsgh209@gmail.com
 
 
