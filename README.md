@@ -29,3 +29,17 @@
 
 [![Video Label](http://img.youtube.com/vi/xBum6aVuJt8/0.jpg)](https://youtu.be/xBum6aVuJt8)
 
+<br />
+
+## **💽 시연 자료**
+
+![사원수정](https://user-images.githubusercontent.com/102138687/220496341-01d9ee03-9031-46ad-b79c-45978839de4d.PNG)
+![사원급여](https://user-images.githubusercontent.com/102138687/220496408-590d8593-f96a-4987-b743-26ca9a67c9fd.PNG)
+![사원급여명세서](https://user-images.githubusercontent.com/102138687/220496413-68ecd28d-7e86-44a2-9776-e50aeaeb288e.PNG)
+![조직도](https://user-images.githubusercontent.com/102138687/220496535-e01ec6d1-75a9-4aec-8742-464976caa59f.PNG)
+![캘린더](https://user-images.githubusercontent.com/102138687/220496538-828bb6c8-d25c-458c-b354-bf4dd8a76847.PNG)
+![나의업무](https://user-images.githubusercontent.com/102138687/220496539-49d0191d-ccf4-4baa-a605-2ef1ff15a3ab.PNG)
+![전자결재](https://user-images.githubusercontent.com/102138687/220496571-34b822dd-321f-476e-adc1-1392ea0c0e7c.PNG)
+![기안작성](https://user-images.githubusercontent.com/102138687/220496573-43e645f2-5dc0-4138-8e93-26efb631deef.PNG)
+
+
